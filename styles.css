@@ -1,0 +1,43 @@
+.body{
+    margin: 0;
+    background: #BDBDBD;   
+    padding: 10px;  
+             
+}          
+.post{
+    margin: auto;
+    width: 525px;
+    background: white;
+    margin-top: 3%;
+    margin-bottom: 3%;           
+}
+#content{                
+    display: flex;
+}
+h3{
+   padding: 2%; 
+   width: 90%;
+   margin: 0;
+}
+span{
+    width: 10%;
+    margin: auto;
+    padding-right: 1px;
+    opacity: 0.3;                               
+}
+div.post img{
+   height: 350px;
+   width: 100%;
+   margin: auto;
+}
+div p{
+    margin: auto;
+    padding: 2%;             
+}
+#borde{
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+hr{
+    opacity: 0.2;
+}
